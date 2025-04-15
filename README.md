@@ -51,11 +51,18 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=laravel,mysql,firebase" /></td>
   </tr>
   <tr>
+    <td align="center" colspan="2"><strong>🗄️ Database</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
+  </tr>
+  <tr>
     <td align="center" colspan="2"><strong>📦 CMS & Builders</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><img src="https://img.shields.io/badge/Gutenberg-21759b?style=for-the-badge&logo=wordpress&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><strong>📱 Mobile</strong></td>
@@ -72,7 +79,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=figma,postman,vercel,netlify" /></td>
   </tr>
 </table>
-
 
 ---
 
