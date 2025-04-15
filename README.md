@@ -2,7 +2,7 @@
 
   <!-- Animated Emoji Heading -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👨‍💻+Hey+there%2C+I'm+FERDAUS+SK! 💖;Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👨‍💻+Hey+there%2C+I'm+FERDAUS+SK!+💖;Software+Developer" alt="Typing SVG" />
   </h1>
 
   <!-- Emoji-based Tech Description -->
