@@ -1,15 +1,23 @@
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
 
-  <!-- Profile Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Hi%2C+I'm+Ferdaus+SK!;🎯+Coding+Artisan+%7C+WordPress+Expert;🧩+Plugin+%26+Theme+Developer;💻+JS+%7C+React+%7C+PHP+Ninja;⚡+Crafting+Code+that+Creates+Impact;📱+Laravel+%7C+Flutter+Support;🌐+Web+%26+Android+App+Explorer" alt="Typing SVG" />
+  <!-- Animated Emoji Heading -->
+  <h1 style="font-size: 2.5rem;">
+    👨‍💻 Hey there, I'm <span style="color:#00FFC6;">Ferdaus SK</span>!
+  </h1>
+
+  <!-- Emoji-based Tech Description -->
+  <p style="font-size: 1.2rem; margin-top: -10px;">
+    🎯 Coding Artisan | 🧩 WP Plugin & Theme Dev <br/>
+    💻 JavaScript • React • PHP • WordPress <br/>
+    📱 Support: Laravel & Flutter | 🌐 Web & Android App Explorer
+  </p>
 
   <!-- Animated Developer GIF -->
-  <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="380" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,198,0.4); margin-top: 20px;" />
 
-  <!-- Tagline / Motto -->
-  <h3 style="color:#00FFC6; font-weight:600; font-family: 'Fira Code', monospace;">
-    🚧 Building The Future, One Line of Code at a Time...
+  <!-- Motto -->
+  <h3 style="color: #00FFC6; margin-top: 25px; font-weight: 500;">
+    ⚡ Crafting Code that Creates Impact!
   </h3>
 
 </div>
