@@ -9,7 +9,7 @@
   <p style="font-size: 1.2rem; margin-top: -10px;">
     🎯 Coding Artisan | 🧩 WP Plugin & Theme Dev <br/>
     💻 JavaScript • React • PHP • WordPress <br/>
-    📱 Support: Laravel & Flutter | 🌐 Web & Android App Explorer
+    📱 Laravel & Flutter | 🌐 Web & Android App Explorer
   </p>
 
   <!-- Animated Developer GIF -->
