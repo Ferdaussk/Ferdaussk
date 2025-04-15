@@ -27,7 +27,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center" style="font-size: 18px;">
-  I am <strong>Ferdaus SK</strong>, a passionate <strong>WordPress Developer</strong> and <strong>Creative Coding Artisan</strong> from Bangladesh 🇧🇩.<br>
+  A passionate <strong>WordPress Developer</strong> and <strong>Creative Coding Artisan</strong> from Bangladesh 🇧🇩.<br>
   I specialize in creating powerful, custom WordPress plugins and themes. With a deep love for clean code and pixel-perfect design, I transform ideas into fully functional, elegant digital solutions.
 </p>
 
