@@ -19,9 +19,44 @@
 
 <h2 align="center">🧠 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,laravel,flutter,html,css,github,vscode" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2"><strong>🌐 Front-End</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>⚙️ Back-End</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,nodejs,express" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel,mysql,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>📦 CMS & Builders</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>📱 Mobile</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>🛠 Tools & Others</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma,postman,vercel,netlify" /></td>
+  </tr>
+</table>
+
 
 ---
 
