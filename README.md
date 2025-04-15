@@ -1,8 +1,8 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
 
-  <!-- Typing Animation for the Header -->
-  <h1 style="font-size: 2.5rem;">
-    <span id="typing-animation" style="color:#00FFC6;"></span>
+  <!-- Animated Emoji Heading -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👨‍💻+Hey+there%2C+I'm+Ferdaus+SK!;WordPress+Plugin+Developer;JavaScript+%7C+React+%7C+PHP;Support%3A+Laravel+%7C+Flutter" alt="Typing SVG" />
   </h1>
 
   <!-- Emoji-based Tech Description -->
@@ -21,24 +21,6 @@
   </h3>
 
 </div>
-
-<script>
-  // Typing animation script
-  const text = "👨‍💻 Hey there, I'm Ferdaus SK!";
-  let i = 0;
-  const typingElement = document.getElementById("typing-animation");
-
-  function typeText() {
-    if (i < text.length) {
-      typingElement.textContent += text.charAt(i);
-      i++;
-      setTimeout(typeText, 100); // Delay between each character
-    }
-  }
-
-  // Start the typing animation
-  typeText();
-</script>
 
 ---
 
