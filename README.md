@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=👨‍💻+Hey+there%2C+I'm+Ferdaus+SK!+Software+Developer" alt="Typing SVG" />
   </h1>
 
-
   <!-- Emoji-based Tech Description -->
   <p style="font-size: 1.2rem; margin-top: -10px;">
     🎯 Coding Artisan | 🧩 WP Plugin & Theme Dev <br/>
