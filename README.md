@@ -72,6 +72,19 @@
     <td align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></td>
   </tr>
   <tr>
+    <td align="center" colspan="2"><strong>🤖 AI & API</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST%20API-ff69b4?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="2"><strong>🛠 Tools & Others</strong></td>
   </tr>
   <tr>
