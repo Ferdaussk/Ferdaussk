@@ -1,8 +1,8 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
 
-  <!-- Animated Emoji Heading -->
+  <!-- Typing Animation for the Header -->
   <h1 style="font-size: 2.5rem;">
-    👨‍💻 Hey there, I'm <span style="color:#00FFC6;">Ferdaus SK</span>!
+    <span id="typing-animation" style="color:#00FFC6;"></span>
   </h1>
 
   <!-- Emoji-based Tech Description -->
@@ -21,6 +21,24 @@
   </h3>
 
 </div>
+
+<script>
+  // Typing animation script
+  const text = "👨‍💻 Hey there, I'm Ferdaus SK!";
+  let i = 0;
+  const typingElement = document.getElementById("typing-animation");
+
+  function typeText() {
+    if (i < text.length) {
+      typingElement.textContent += text.charAt(i);
+      i++;
+      setTimeout(typeText, 100); // Delay between each character
+    }
+  }
+
+  // Start the typing animation
+  typeText();
+</script>
 
 ---
 
