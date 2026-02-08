@@ -8,7 +8,7 @@
   <!-- Emoji-based Tech Description -->
   <p style="font-size: 1.2rem; margin-top: -10px;">
     🎯 Coding Artisan | 🧩 WP Plugin & Theme Dev <br/>
-    💻 JavaScript • React • PHP • WordPress <br/>
+    💻 JavaScript • React • MERN • PHP • WordPress <br/>
     📱 Laravel & Flutter | 🌐 Web & Android App Explorer
   </p>
 
